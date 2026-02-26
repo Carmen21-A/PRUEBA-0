@@ -1,0 +1,76 @@
+h1{
+    color: black;
+    font-style: italic;
+    background-color: rgb(241, 168, 168);
+    text-decoration: underline;
+    text-align: center;
+}
+p{
+    color: blue;
+    font-style: oblique;
+}
+h2{
+    color: darkgreen;
+    font-style: italic;
+    background-color: rgb(166, 245, 166);
+}
+h3{
+    color: purple;
+    font-style: italic;
+    background-color: rgb(253, 192, 201);
+}
+body{
+    background-color:beige ;
+}
+title{
+    color: black;
+    background-color: indianred;
+}
+#like{
+    background-color: lightgreen;
+    color: black;
+}
+#mal{
+    background-color: lightcoral;
+    color: black;
+}
+
+ #gifLikeFirst {
+    display: none;
+    max-width: 400px;
+}
+#gifMal, #gif2 {
+    display: none;
+    max-width: 240px;
+}
+
+#Dudu{
+    color: lightgrey;
+    background-color: rgb(179, 171, 230);
+    font-family: cursive;
+    width: 120px;
+    position: fixed;
+    left: 0px;  
+    bottom: -15px;   
+}
+#gifDudu{
+    display: block;
+   position: fixed;
+    left: 120px;  
+    bottom: -3px;   
+    width: 50px;
+    height: 50px; 
+}
+
+h6 {
+    color: grey;
+    font-style: italic;
+    font-size: 600px;           
+    position: fixed;
+    top: 50%;                    
+    left: 50%;                    
+    transform: translate(-50%, -50%); 
+    opacity: 0.1;
+    margin: 0;
+    width: 60%;                                  
+}
